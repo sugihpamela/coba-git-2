@@ -6,6 +6,7 @@
     <title>Coba GIT</title>
 </head>
 <body>
+    <h1>Ini adalah halaman Mahasiswa</h1>
     <h3>Data Mahasiswa</h3>
     <ul>
         <li>Nama : Sugih Pamela</li>
