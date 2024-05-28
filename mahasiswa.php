@@ -9,7 +9,7 @@
     <h3>Data Mahasiswa</h3>
     <ul>
         <li>Nama : Sugih Pamela</li>
-        <li>Umur : 27 Tahun</li>
+        <li>Tempat/ Tanggal Lahir : Tasikmalaya/ 23 Maret 1997</li>
     </ul>
 </body>
 </html>
