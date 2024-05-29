@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Ini adalah halaman Fakultas</p>
+    <h1>Berikut nama fakultas di Universitas Tagalog</h1>
+    <ul>
+        <li>Fakultas Kehewanan</li>
+        <li>Fakultas Ketumbuhan</li>
+    </ul>
 </body>
 </html>
