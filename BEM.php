@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Ini adalah halaman BEM</h1>
+    <h3>Ini adalah halaman BEM</h3>
+    <p>Ini halaman ori</p>
 </body>
 </html>
