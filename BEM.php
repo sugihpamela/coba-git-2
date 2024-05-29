@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Ini adalah halaman BEM</h2>
     <p>Ini adalah halaman master</p>
+    <h3>Ini adalah halaman BEM</h3>
 </body>
 </html>
